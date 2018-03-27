@@ -18,5 +18,6 @@
   "homepage": "https://github.com/Riti0208/GoogleHomeNodeRasp#readme",
   "dependencies": {
     "google-home-notifier": "^1.2.0"
-  }
+  },
+  "devDependencies": {}
 }
